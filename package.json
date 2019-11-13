@@ -2,7 +2,7 @@
     "name": "rorvswild-dark",
     "displayName": "RoRvsWild dark",
     "description": "An accessible dark theme based on rorvswild colors.",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "publisher": "basesecrete",
     "engines": {
         "vscode": "^1.40.0"
