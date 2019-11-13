@@ -1,4 +1,4 @@
-# RoRvsWild Dark Theme for VS Code Studio
+# RoRvsWild Dark Theme for VS Code
 
 ![RoRvsWild Dark ticonheme](https://basesecrete.com/rorvswild-theme/rorvswild-theme-icon-dark.png)
 
