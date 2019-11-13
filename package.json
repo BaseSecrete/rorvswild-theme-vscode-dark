@@ -23,11 +23,11 @@
                 "path": "./themes/rorvswild dark-color-theme.json"
             }
         ]
-    }
+    },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Microsoft/vscode-wordcount.git"
+        "url": "https://github.com/BaseSecrete/rorvswild-theme-vscode-dark"
       },
-      "homepage": "https://github.com/Microsoft/vscode-wordcount/blob/master/README.md"
+      "homepage": "https://github.com/BaseSecrete/rorvswild-theme-vscode-dark"
     }
 }
