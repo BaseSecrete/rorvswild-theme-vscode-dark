@@ -1,0 +1,33 @@
+{
+    "name": "rorvswild-dark",
+    "displayName": "RoRvsWild dark",
+    "description": "An accessible dark theme based on rorvswild colors.",
+    "version": "0.0.1",
+    "publisher": "Base Secrète",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/rorvswild-theme-icon-dark.png",
+    "galleryBanner": {
+        "color": "#1D242F",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "rorvswild dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rorvswild dark-color-theme.json"
+            }
+        ]
+    }
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Microsoft/vscode-wordcount.git"
+      },
+      "homepage": "https://github.com/Microsoft/vscode-wordcount/blob/master/README.md"
+    }
+}
